@@ -1,9 +1,11 @@
-# Python Program To Access Pixels Using OpenCV
+# Python Program To Read/Write a Video Using OpenCV
 
 ### Author:- Ajinkya Patil
 
 ### Github:- https://github.com/Ajinkya7poppyi
 
-**Python program to access pixels in image.** 
+**Python Program To Read/Write a Video Using OpenCV.** 
 
-This program demonstrates to get and set the values at desired pixel locations.
+Program to read frames from video file path and write to the given path. Press escape key to escape from program.
+
+If you need video to be written in H-264 standard. Then you need to download desired library and place the .dll file in Python folder or set .dll path to environmental variables.

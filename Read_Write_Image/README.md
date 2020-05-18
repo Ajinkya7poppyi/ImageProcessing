@@ -1,9 +1,9 @@
-# Python Program To Access Pixels Using OpenCV
+# Python Program To Read/Write an Image Using OpenCV
 
 ### Author:- Ajinkya Patil
 
 ### Github:- https://github.com/Ajinkya7poppyi
 
-**Python program to access pixels in image.** 
+**Python Program To Read/Write an Image Using OpenCV** 
 
-This program demonstrates to get and set the values at desired pixel locations.
+Program to read image from file path and write to the given path if pressed ‘s’ key by user. Otherwise press escape key to escape from program.
